@@ -3,9 +3,9 @@ import resturantImg from "./assets/resturant_cover.svg";
 import hrDashboardImg from "./assets/hr_dashboard.svg";
 import learningwebsiteImg from "./assets/learning_website.svg";
 import gateappImg from "./assets/gate_app.svg";
-import megabusImg from "./assets/gate_app.svg";
+import megabusImg from "./assets/bus_app.svg";
 import countrymartImg from "./assets/mart_app.svg";
-import musicplayerImg from "./assets/mart_app.svg";
+import musicplayerImg from "./assets/music_player.svg";
 
 export default function Projects() {
   const projectDetails = [
