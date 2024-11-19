@@ -1,5 +1,5 @@
 import healthcareImg from "./assets/healthcare_app.svg";
-import resturantImg from "./assets/resturant_cover.png";
+import resturantImg from "./assets/resturant_cover.svg";
 import hrDashboardImg from "./assets/hr_dashboard.svg";
 import learningwebsiteImg from "./assets/learning_website.svg";
 import gateappImg from "./assets/gate_app.svg";
